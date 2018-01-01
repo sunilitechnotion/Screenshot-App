@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/a5589cf86301a3a1cd7487596fec861073f4dae1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dce71bcd263920059d5768af9c84c4e9f67290cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/b69abe789beed1792a1776d748383dddba426db1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50a9b5d591cd526618e3c2e75d0ceb7b474ccf00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/3c1dc5658e3bd8918c217f565d04a46370a3e568/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0ad15af06da2e533f2c7ad17e8cf2eee061790d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/66203d4cff9e258fa7e9ba22d75976a7c82ac498/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_166c09a5ec7af575e4906f50020c8a38436b3f31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/34fbf3274481bb12dae896cbdbcd324ab6944229/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11330486fd8933e62f85eb269ec4e8eb6dff3a90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/7af84787a0aea4315d47a4843ce42f56b87b8568/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_922cd66acb8cad9e269d26bdce29894e43110cd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0ab2e36bed19290fbf395f0844d45e54483bd129">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_853ee72c557f2a0d1fb00c29e54abcbf2aa1d1dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_d8cb69f20b6d00c5d88ac7a7f53f884537dc118b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/46cbd29c5ff7f77d8f7538835b1f0ba827ee22c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1307070cddc51f6012446a8933ee701e44102aaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/68f0f212d10f50090b0d23067501ff25037f0026/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79d274712621e7671d4b96f85f7276a4ad0e4a53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/4ea1a1c97964e96ee39cf2ffbb6f8c1cfb44b9b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0241aa52f27dd23fa495229e3677ceaa1fcc7853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/aab262f16d4c8f58af990855aded93798f888b5f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a570c7b1068bf881e2fabffcaa25832a6fb3e31c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/db3622f36f63514141afe41c9aef230c4156fbb6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9cee5f04d9d2f02fd255ad8492a7488c6cd4519">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ce8416b9df3618d65120c44357cf95db8fd95ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/7b60f45c90fa64844e14ba19a5e82f1cf91a0d3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0da2588d74867cfae662e677dcd832116b46b70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/4d97f137bc15084da4f285ba6f5e6a1746bb4439/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d3b4545dde88272f0ab66ec66fe5ba0cbea8de9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_8791a046444b25b6b40407c22de668a298b7e523/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/d40d9ce7bca146ad3673b9b203555f136db90b6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06428084a5574ea148c7379a37ddcf09b30dc7d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/admin/Github-Sunil/Screenshot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5771ddc0a2e1592b98e9fdf903a91bef95c99017/classes.dex" />
+    </item>
+
+</items>
